@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 473591375152ceb63dc9                            #生成的clientID
-  clientSecret: 8b42bb812b973bfc98b48cd5586d73ab412542f8    #生成的clientSecret
+  clientID: a37d99d027b8600f8495                            #生成的clientID
+  clientSecret: 1c158e819d63909a1c721359bb199937d23af3fc    #生成的clientSecret
   repo: fxet.github.io    #仓库名称
   owner: fxet    #github用户名
   admin: fxet
